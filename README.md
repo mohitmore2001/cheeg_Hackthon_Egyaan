@@ -1,5 +1,11 @@
 # E-GYAAN YOUR PERSONAL GURU
  
+ 
+## To run locally :
+pip install -r requirements.py
+
+python manage.py runserver
+ 
 ## THEME
 Overview: As learners around the world respond to the “new normal” , the need for remote learning tools has never been more urgent. Build solutions that can help schools, educators, students, and employees to make the transition to distance learning easier, simplified, and interactive. Challenge: Make learning relevant, interactive and effective.
 
