@@ -1,9 +1,9 @@
 # E-GYAAN YOUR PERSONAL GURU
  
-### THEME
+## THEME
 Overview: As learners around the world respond to the “new normal” , the need for remote learning tools has never been more urgent. Build solutions that can help schools, educators, students, and employees to make the transition to distance learning easier, simplified, and interactive. Challenge: Make learning relevant, interactive and effective.
 
-### PROPOSED SOLUTION
+## PROPOSED SOLUTION
 
 •	Our solution aims to provide an online tool that can assist students in learning new skills from anywhere and at any time, allowing them to make the most of every second of their lives.
 
@@ -21,8 +21,8 @@ Overview: As learners around the world respond to the “new normal” , the nee
 
 •	Students can enjoy the entire learning phase and win exciting prizes with the help of seasonal gaming programmes.
 
-### FEATURES
-#### Student
+## FEATURES
+### Student
 •	Authentication system with signup,login,otp
 
 •	Google authentication (Oauth2) using react-google-login and google auth-library
@@ -52,7 +52,7 @@ Overview: As learners around the world respond to the “new normal” , the nee
 •	Certificate after the completion of the course 
 
 
-#### Teacher
+### Teacher
 •	Proper Authentication system with signup
 
 •	Fully validated teacher uploading form with description, title, Image and other details
