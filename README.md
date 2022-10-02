@@ -2,7 +2,13 @@
  
  
 ## To run locally :
+
+
 pip install -r requirements.py
+
+python manage.py makemigrations
+
+python manage.py migrate
 
 python manage.py runserver
  
@@ -26,6 +32,20 @@ Overview: As learners around the world respond to the “new normal” , the nee
 •	Every course will be divided into three stages: basic, intermediate, and advanced. With the completion of each level, the student will earn brownie points, which can be used to purchase E-GYAN merchandise.
 
 •	Students can enjoy the entire learning phase and win exciting prizes with the help of seasonal gaming programmes.
+## Screenshots
+
+### HomePage
+![image](https://user-images.githubusercontent.com/64836894/193439099-df6e4a5b-be98-4494-84c1-4cf9c548e39c.png)
+### Register Page
+![image](https://user-images.githubusercontent.com/64836894/193439117-ce94de72-eef5-4f7a-84ba-d287dc2ba77f.png)
+### Login Page
+![image](https://user-images.githubusercontent.com/64836894/193439126-ce03f8a8-8dd0-4cd2-8e53-b8b9a346140a.png)
+### Contact Page
+![image](https://user-images.githubusercontent.com/64836894/193439160-d7091696-1e44-4edd-91a1-f4a4611eb6fb.png)
+### About
+![image](https://user-images.githubusercontent.com/64836894/193439190-d9176fb1-979a-473e-83be-3f52529cac0a.png)
+
+
 
 ## FEATURES
 ### Student
